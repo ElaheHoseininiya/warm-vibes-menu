@@ -1,4 +1,5 @@
 # Welcome to your Lovable project
+![Scan to open](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://elahehoseininiya.github.io/warm-vibes-menu/)
 
 ## Project info
 
