@@ -38,7 +38,7 @@ export const menuItems: MenuItem[] = [
     name: "Pour Over",
     description: "Meticulously hand-poured coffee highlighting nuanced flavors. Available in light, medium, or dark roast.",
     category: "Coffee",
-    price: "$5.00",
+    price: "35000T",
     image: "coffee-pourover.jpg"
   },
   
